@@ -6,7 +6,7 @@ Main.java = tempat main method, sekaligus tempat pemanggilan page pertama yaitu 
 MainMenu.java = tempat menu utama dari aplikasi "QUISO". 
 MainSoal.java = tempat segala logika tentang proses menampilkan soal, sampai logika penyeleksian jawaban user yang benar.
 FinishPage.java = tempat menampilkan nilai yang didapat dari class MainSoal.
-Soal.java = tempat menampun method soal dan method text soal, yang nantinya digunakan pada page MainSoal.
+Soal.java = tempat menampung method soal dan method text soal, yang nantinya digunakan pada page MainSoal.
 
 Download file .jar : https://drive.google.com/file/d/1K9-H7ZW6pgruHlED5suzTGa6agvcbTVo/view?usp=sharing
 *Buka dengan cara "open with java"
